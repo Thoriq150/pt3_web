@@ -13,7 +13,7 @@
 ![image](https://github.com/Thoriq150/pt3_web/assets/115950790/90a38ee0-6691-42fe-9a73-84fae4633815)
 
 ### Membuat Tabel
-#### 1. Buat file baru untuk membuat tabel seperti ini dan atur margarin dan padding
+#### 1. Buat file baru untuk membuat tabel seperti ini dan atur margarin dan padding di dalam `<table>`
 ![image](https://github.com/Thoriq150/pt3_web/assets/115950790/1d05c850-1c26-435e-a655-465ef264b450)
 ![image](https://github.com/Thoriq150/pt3_web/assets/115950790/f84140c3-07f9-45a6-9196-23d511977575)
 ![image](https://github.com/Thoriq150/pt3_web/assets/115950790/86fc3679-a975-415c-9d31-2347b043af16)
