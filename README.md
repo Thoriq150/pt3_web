@@ -26,3 +26,9 @@
 ![image](https://github.com/Thoriq150/pt3_web/assets/115950790/def820f1-4ae8-4d64-b767-51326664ae8f)
 ![Screenshot (136)](https://github.com/Thoriq150/pt3_web/assets/115950790/ec0ce403-d1e2-4c8f-8f36-5a603a77c403)
 
+## Tugas
+### Membuat From Dropdown dan Listbox
+![Screenshot (149)](https://github.com/Thoriq150/pt3_web/assets/115950790/734e9c7e-5419-44dc-8e38-ef42bda477e6)
+![Screenshot (150)](https://github.com/Thoriq150/pt3_web/assets/115950790/35684744-6b5e-4e40-bb4f-11ba0921efc8)
+Hasilnya
+(https://github.com/Thoriq150/pt3_web/assets/115950790/330a6108-f70d-474a-b53b-1f23d83d36ed)
