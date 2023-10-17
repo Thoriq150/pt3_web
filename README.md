@@ -28,9 +28,9 @@
 
 ## Tugas
 ### Membuat From Dropdown dan Listbox
-Buat code htmlnya
+#### Buatlah code htmlnya
 ![Screenshot (147)](https://github.com/Thoriq150/pt3_web/assets/115950790/dad241c8-9d41-4043-9d10-1e3f12922007)
-Lalu tambahkan file css supaya lebih menarik
+#### Lalu tambahkan file css supaya lebih menarik
 ![Screenshot (149)](https://github.com/Thoriq150/pt3_web/assets/115950790/734e9c7e-5419-44dc-8e38-ef42bda477e6)
 ![Screenshot (150)](https://github.com/Thoriq150/pt3_web/assets/115950790/35684744-6b5e-4e40-bb4f-11ba0921efc8)
 #### Hasilnya
